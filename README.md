@@ -1,10 +1,19 @@
-# presentacion-
+# Mi presentacion:
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Buenas, mi nombre es Gonzalo, tengo 32 años, casi 33, el 11 de abril es mi cumple y cae jueves así que acuérdense de saludarme...
 
-Ya saben usar git!
+##Hobbies:
+
+Mis hobbies son... Mejor hago una lista asi uso el markdown.
+
+Hobbies:
+
+-Videojuegos
+-Tocar la guitarra
+-Dirigir juegos de rol (Dungeons and Dragons, Call of Cthulhu, Pathfinder,etc)
+-Coleccionar y jugar juegos de mesa
+-Pintar miniaturas
+
+Luego adjuntare imagenes de las minis que he pintado, mi colección de juegos de mesa o alguna partida de rol...
+
+Por cierto, si a alguien le gusta o interesa los juegos de rol avisen y podemos organizar para jugar algun día... 
