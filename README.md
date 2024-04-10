@@ -18,7 +18,7 @@ Luego adjuntare imagenes de las minis que he pintado, mi colección de juegos de
 Por cierto, si a alguien le gusta o interesa los juegos de rol avisen y podemos organizar para jugar algun día... 
 
 
-Edit: Aqui estan las imagenes!!
+Edit: Aquí están las imágenes!! No mostraré la colección de juegos de mesa porque están muy desordenados...
 
   <table style="width: 100%;">
     <tr>
